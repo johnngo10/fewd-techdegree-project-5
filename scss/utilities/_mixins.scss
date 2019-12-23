@@ -18,8 +18,3 @@
     }
   }
 }
-
-// Fade Transition
-@mixin fade($property) {
-  transition: $property, ease-in-out, 1s;
-}
